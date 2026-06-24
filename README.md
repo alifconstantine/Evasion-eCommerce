@@ -9,7 +9,7 @@ Halaman web ini menampilkan desain estetis bergaya minimalis nan mewah dengan be
 ## 📽️ Demo Proyek
 Tonton video demo singkat interaksi web berikut:
 
-<video src="public/demo.mp4" width="100%" controls autoplay loop muted></video>
+<video src="https://github.com/user-attachments/assets/5bb5c95e-6f1b-43ae-909b-5a9e0a84e609" width="100%" controls autoplay loop muted></video>
 
 *(Jika video tidak muncul secara langsung, Anda dapat membukanya melalui folder [public/demo.mp4](file:///d:/Code/Landing%20Page/evasion-e-commerce-template/public/demo.mp4))*
 
